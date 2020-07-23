@@ -1,0 +1,10 @@
+header, aside, section, article, main,nav, footer
+h1 {color: yellow;}
+
+<style>
+h3 {color: red;
+background-color: blue;}
+</style>
+style="color:yellow;"
+
+static, relative, fixed, absolute.
